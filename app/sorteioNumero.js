@@ -1,5 +1,5 @@
 const menorNumero = 1
-const maiorNumero = 100
+const maiorNumero = 1000
 const numeroAleatorio = sorteioNumero()
 
 function sorteioNumero(){
